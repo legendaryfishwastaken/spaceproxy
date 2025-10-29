@@ -208,7 +208,6 @@ function handleCheckboxChange() {
         }
     };
 </script>
-<script async src="https://widget.changelogfy.com/index.js"></script>
 </body>
 						</html>
 					`;
@@ -407,7 +406,6 @@ function launchBlob() {
         }
     };
 </script>
-<script async src="https://widget.changelogfy.com/index.js"></script>
 </body>
 		</html>
 	`;

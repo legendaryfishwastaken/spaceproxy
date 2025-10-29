@@ -8,6 +8,7 @@ import { uvPath } from '@titaniumnetwork-dev/ultraviolet';
 import { epoxyPath } from '@mercuryworkshop/epoxy-transport';
 import { libcurlPath } from '@mercuryworkshop/libcurl-transport';
 import { baremuxPath } from '@mercuryworkshop/bare-mux/node';
+import { scramjetPath } from '@mercuryworkshop/scramjet/path';
 import { server as wisp } from '@mercuryworkshop/wisp-js/server';
 import routes from './src/routes.js';
 
@@ -24,6 +25,7 @@ app.use('/epoxy/', express.static(epoxyPath));
 app.use('/@/', express.static(uvPath));
 app.use('/libcurl/', express.static(libcurlPath));
 app.use('/baremux/', express.static(baremuxPath));
+app.use('/scram/', express.static(scramjetPath));
 
 app.use('/', routes);
 

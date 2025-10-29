@@ -151,7 +151,6 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     };
 </script>
-<script async src="https://widget.changelogfy.com/index.js"></script>
 </body>
 		</html>
 	  `;
