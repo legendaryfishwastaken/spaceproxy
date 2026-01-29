@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', function () {
 				const htmlContent = `
 		<html>
 		  <head>
-			<title>poopy.site</title>
+			<title>poopy.games</title>
 			<style>
 			  body, html {
 				margin: 0;
@@ -148,7 +148,7 @@ document.addEventListener('DOMContentLoaded', function () {
 				let newWindow = window.open(blobUrl);
 				if (newWindow) {
 					newWindow.onload = () => {
-						newWindow.document.title = 'Space';
+						newWindow.document.title = 'poopy.games';
 					};
 
 					const tabCloak = localStorage.getItem(
