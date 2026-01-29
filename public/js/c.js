@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', function () {
 				const htmlContent = `
 		<html>
 		  <head>
-			<title>Space</title>
+			<title>poopy.site</title>
 			<style>
 			  body, html {
 				margin: 0;
@@ -135,22 +135,6 @@ document.addEventListener('DOMContentLoaded', function () {
 		  </head>
 		  <body>
 			<iframe src="${currentSiteUrl}"></iframe>
-		  <script>
-    let CLF_config = {
-        app_id: "163a312a-7cde-41ab-a80c-cb4cf281efdf",
-        data: {
-            user_id: '123456', // required
-            user_email: 'user@email.com', // required
-            user_name: 'User Name', // optional
-            custom_data: {
-                'JobRole': 'CEO', // optional
-                'Plan': 'Pro', // optional
-                'teamMates': '4', // optional
-                'MonthlySpend': '50 USD' // optional
-            }
-        }
-    };
-</script>
 </body>
 		</html>
 	  `;
