@@ -1,10 +1,5 @@
 [
-	{
-		"name": "! Request a game",
-		"url": "https://docs.google.com/forms/d/e/1FAIpQLSeZcPMt3toVL8EtKLfHMbKpx4lZzqAAr5ifvZJRwoXqsLSf-A/viewform?usp=pp_url",
-		"img": "/assets/requestApp.jpg",
-		"categories": ["all"]
-	},
+	
 	{
 		"name": "Amazon",
 		"url": "https://www.amazon.com/",
@@ -54,9 +49,9 @@
 		"categories": ["all", "media", "popular"]
 	},
 	{
-		"name": "Flix HQ",
-		"url": "https://flixhq.bz/",
-		"img": "/assets/imgs/a/Flix_HQ.webp",
+		"name": "Movies",
+		"url": "https://watch.poopy.site/",
+		"img": "https://github.com/p-stream/p-stream/blob/production/public/embed-preview.png?raw=true",
 		"categories": ["all", "media", "popular"]
 	},
 	{
@@ -169,27 +164,15 @@
 	},
 	{
 		"name": "webretro",
-		"url": "https://binbashbanana.github.io/webretro/",
+		"url": "https://poopy.site/webretro/",
 		"img": "/assets/imgs/a/webretro.webp",
 		"categories": ["all", "game", "popular"]
-	},
-	{
-		"name": "Character.AI",
-		"url": "https://beta.character.ai",
-		"img": "/assets/imgs/a/Character_AI.webp",
-		"categories": ["all", "ai", "popular"]
 	},
 	{
 		"name": "Snapchat",
 		"url": "https://www.snapchat.com",
 		"img": "/assets/imgs/a/Snapchat.webp",
 		"categories": ["all", "media", "messaging", "popular"]
-	},
-	{
-		"name": "Shuttle.lol",
-		"url": "https://shuttle.lol",
-		"img": "/assets/imgs/a/Shuttle_lol.webp",
-		"categories": ["all", "game"]
 	},
 	{
 		"name": "Wattpad",
