@@ -231,7 +231,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	// Tab Cloaking
 	const cloaks = {
 		'None (Default)': {
-			title: 'Space',
+			title: 'poopy.games',
 			favicon: '/assets/favicon.ico'
 		},
 		'Google Classroom': {
