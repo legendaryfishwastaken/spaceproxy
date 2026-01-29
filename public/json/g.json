@@ -6,6 +6,12 @@
 		"categories": ["all", "popular", "multiplayer"]
 	},
 	{
+		"name": "ROBLOX",
+		"url": "https://nowgg.fun/apps/a/19900/b.html",
+		"img": "https://cms-media.roblox.com/resize=width:1440,fit:max/ORMyMISWTDas1y0KNm0j",
+		"categories": ["all", "popular", "multiplayer"]
+	},
+	{
 		"name": "2048",
 		"url": "https://www.2048.org/",
 		"img": "/assets/imgs/g/2048.webp",
